@@ -1,5 +1,7 @@
 # homework2_12_9
 # 수치해석(Matlab)
+# newton raphson method
+# Jocobian Matrix
 
 ![12 9-1](https://user-images.githubusercontent.com/58453290/70115469-1cfc5280-16a3-11ea-9351-142cd5912b7d.JPG)
 
